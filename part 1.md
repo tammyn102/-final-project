@@ -11,6 +11,7 @@ And you decided to stack then all together.
 Every time we put a pokemon onto the stack, we call this a **push** operation.  
 We can keep stacking pokemons on top of the one before. However, circumstances can change in implementing stacks on Python, we will say that the pokemon is actually added to the **back**. When we take the pokeom off the stack, we will call this a **pop** operation. We can push and pop from the back of the stack. Pulling out from the middle of the stack is not generally allowed. Usually, the pokemon at the **front** is the first pokemon that was stacked. 
 
+![](pokstack.jpeg)
 ## Implementation 
 **push** - adds an element to the top of the stack:
 
